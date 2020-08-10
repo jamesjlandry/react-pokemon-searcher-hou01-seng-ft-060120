@@ -1340,6 +1340,42 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "12",
+      "sprites": {
+        "front": "http://1.bp.blogspot.com/_3XgbLG71Gb4/TTimbNMmQXI/AAAAAAAAACI/d7rRI_Qpnjs/s1600/bulbasaur.PNG",
+        "back": "https://d3ieicw58ybon5.cloudfront.net/ex/610.610/u/88012f6fac3445f2945c51e9f936d284.jpg"
+      },
+      "id": 151
+    },
+    {
+      "name": "JodiSaur",
+      "hp": "9000",
+      "sprites": {
+        "front": "http://www.okayplayer.com/wp-content/uploads/2015/03/dinosaurs-earl-sinclair-biggie-hypnotize-feat.jpg",
+        "back": "https://i5.photobucket.com/albums/y185/Ridureyu/figures/Kosmoceratops-Butt.png"
+      },
+      "id": 152
+    },
+    {
+      "name": "markdlr",
+      "hp": "42",
+      "sprites": {
+        "front": "https://mayhemandmuse.com/wp-content/uploads/2013/03/A-mushroom-man-rides-a-bizarre-animal-in-this-surrealist-painting-by-Naoto-Hattori.jpg",
+        "back": "https://mymodernmet.com/wp/wp-content/uploads/2018/09/funny-kids-drawings-things-i-have-drawn-35.jpg"
+      },
+      "id": 153
+    },
+    {
+      "name": "capeabelmon",
+      "hp": "17",
+      "sprites": {
+        "front": "https://vignette1.wikia.nocookie.net/digimon/images/e/ea/Biyomon_(Re-Digitize)_b.jpg/revision/latest?cb=20160416005917",
+        "back": "https://th.bing.com/th/id/OIP.wjPKifdeP_ivEZKrPwkNyAHaHa?pid=Api&rs=1"
+      },
+      "id": 154
     }
   ]
 }
